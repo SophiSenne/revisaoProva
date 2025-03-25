@@ -62,21 +62,6 @@ x (B) this.cursors.up.isDown
 
 (D) this.input.keyDown('UP')
 
-### Como adicionar um movimento de velocidade fixa para um sprite chamado player usando Arcade Physics?
-
-```
-function update() {
-    // Código aqui
-}
-```
-x (A) player.setVelocity(200, 0);
-
-(B) player.velocity = 200;
-
-(C) player.setSpeed(200);
-
-(D) player.moveX(200);
-
 ### Como impedir que um sprite saia da tela?
 
 ```
@@ -113,21 +98,6 @@ x (A) player.play('walk');
 (C) player.startAnimation('walk');
 
 (D) player.begin('walk');
-
-### Qual dessas linhas de código inicia um temporizador para executar uma função após 5 segundos?
-```
-function create() {
-    // Código aqui
-}
-```
-
-(A) this.time.delayedCall(5000, () => console.log('Tempo acabou!'));
-
-(B) setTimeout(() => console.log('Tempo acabou!'), 5000);
-
-(C) this.timer.start(5000, () => console.log('Tempo acabou!'));
-
-(D) this.schedule(5000, () => console.log('Tempo acabou!'));
 
 ### Qual é a principal vantagem de usar um physics engine como Arcade Physics no Phaser?
 

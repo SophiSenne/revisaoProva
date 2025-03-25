@@ -1,15 +1,5 @@
 # Questões de variáveis e tipos de dados
 
-### Qual dos valores abaixo é considerado falsy (falso) em JavaScript?
-
-(A) "0"
-
-(B) 1
-
-x (C) null
-
-(D) "false"
-
 ### O que acontece se tentarmos somar um número com uma string em JavaScript?
 
 ```console.log(5 + "5");```
@@ -24,8 +14,10 @@ x (B) "55"
 
 ### Qual é o valor padrão de uma variável que foi declarada, mas não inicializada?
 
-```let x;
-console.log(x);```
+```
+let x;
+console.log(x);
+```
 
 (A) null
 
@@ -45,15 +37,6 @@ x (C) array
 
 (D) boolean
 
-### Qual é o tipo de dado retornado pela função typeof 42?
-
-(A) "string"
-
-x (B) "number"
-
-(C) "boolean"
-
-(D) "object"
 
 ### O que significa um valor ser considerado "falsy" em JavaScript?
 
