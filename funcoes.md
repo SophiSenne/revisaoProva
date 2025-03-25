@@ -1,11 +1,5 @@
 # Questões Funções
 
-Fiz 4 questões pra gente decidir qual/quais colocar no kahoot
-
-## 1
-
-Essa questão acho que é um pouco mais difícil, mas foi inspirada em uma que causou muita dificuldade ano passado na nossa prova.
-
 1. Qual será a saída desse código?
 
 ```javascript
@@ -35,9 +29,7 @@ c) Anna
 
 d) Giovanna
 
-## 2
-
-também peguei essa questão da nossa prova
+<br>
 
 2. Qual a saída desse trecho de código?
 
@@ -63,8 +55,7 @@ c) `Vector2 { x: 300, y: 300 }`
 
 d) `{ x: 300, y: 300 }`
 
-
-## 3
+<br>
 
 3. Qual será a saída do código abaixo?  
 
@@ -81,8 +72,7 @@ c) `x * 2`
 
 d) `Erro`  
 
-
-## 4
+<br>
 
 4. O que acontece se uma função não tiver um `return`?  
 a) Retorna `undefined` ✅  
